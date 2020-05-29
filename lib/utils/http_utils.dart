@@ -22,8 +22,10 @@ class HttpUtils {
       return VersionModel(
         title: '有新版本v0.2.6，快去更新吧！',
         content: '1.基础库升级 | 2.修复OPPO R15详情页问题 | 3.一些优化~',
+//        url:
+//            'https://raw.githubusercontent.com/Sky24n/Doc/master/apks/flutter_wanandroid.apk',
         url:
-            'https://raw.githubusercontent.com/Sky24n/Doc/master/apks/flutter_wanandroid.apk',
+            'https://cdn.jsdelivr.net/gh/flutterchina/website@1.1/apks/gitme.1.1.1.fix1.apk',
         version: '0.2.6',
       );
     });
